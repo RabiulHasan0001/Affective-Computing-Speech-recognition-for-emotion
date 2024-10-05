@@ -1,5 +1,4 @@
-# Affective Computing-Speech recognition for emotion
-
+# Affective Computing-Speech emotion recognition 
 ## Description:
 
 This project focuses on building a speech emotion recognition system. The system extracts prosodic correlates and cepstral features from speech recordings, and then classifies emotions using a supervised SVM classifier.
