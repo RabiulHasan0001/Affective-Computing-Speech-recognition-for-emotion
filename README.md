@@ -1,7 +1,7 @@
 # Affective Computing-Speech emotion recognition 
 ## Description:
 
-This project focuses on building a speech emotion recognition system. The system extracts prosodic correlates and cepstral features from speech recordings, and then classifies emotions using a supervised SVM classifier.
+This project focuses on building a speech emotion recognition system. The system extracts prosodic correlates and cepstral features from speech recordings and then classifies emotions using a supervised SVM classifier.
 
 ## Dataset:
 
@@ -46,7 +46,7 @@ This project focuses on building a speech emotion recognition system. The system
 ### Usage:
    - Clone the repository.
    - Install required libraries using pip install -r requirements.txt.
-   - Run the Jupyter Notebook (Exercise 2_Md Rabiul_Hasan_2410234.ipynb).
+   - Run the Jupyter Notebook (Speech Emotion.ipynb).
 
 ## Results:
 ### Performance
